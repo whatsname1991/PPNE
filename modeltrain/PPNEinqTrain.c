@@ -12,7 +12,7 @@
 //                Codes for                    //
 //    Property Preserving Network Embedding (ineq)    //
 //---------------------------------------------//
-//     Chaozhuo Li, Beihang University         //
+//     Blind, Blind University         //
 //=============================================//
 
 // Property Preserving Network Embedding Main Code
